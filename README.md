@@ -1,8 +1,6 @@
 # Telco_Customer_Churn
 Telco customer churn analysis using Python, SQL, Excel and Power BI to find why customers leave and how to retain them.
 
-# Telco Customer Churn Analysis
-
 End-to-end churn analysis of a telecom customer base using **Python, SQL, Excel and Power BI**: from data cleaning to a 5-page interactive dashboard with business insights and retention recommendations.
 
 > **Business question:** Which customers are churning, why, and where should the retention team focus first?
